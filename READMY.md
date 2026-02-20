@@ -19,3 +19,7 @@ El objetivo es mantener las credenciales aisladas por proyecto y evitar mezclarl
 
 ```bash
 pip install boto3 python-dotenv
+
+
+## License
+This project is licensed under the MIT License.
